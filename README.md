@@ -152,7 +152,7 @@ This dataset can be used for:
 
 ## Notable Patterns
 
-   - Gender Differences in Chest Pain Types
+- Gender Differences in Chest Pain Types
 
     `Key Observations:`
 
