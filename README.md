@@ -53,3 +53,19 @@ This dataset contains clinical and diagnostic information for patients and is co
 This dataset can be used for:
 1. **Exploratory Data Analysis (EDA)**: Understanding trends, distributions, and correlations.
 
+## INSIGHTS OF THE DATASET AFTER EXPLORATORY DATA ANALYSIS
+-  Significant Predictors of heart disease from the data, from the data, are;
+    - patients showing probable or definite left ventricular hypertrophy
+    - ![rest_ecg](Images/restecg.png)
+
+    - Males record a higher number of heart disease 
+    - ![gender](Images/gender.png)
+
+    - Patients who are Asymptomatic, patients who doesn't show a sypmtoms of heart disease.
+    ![asymptomatic](Images/chestpain.png)
+     
+    - Patients whose Fasting blood Sugar is False
+    ![fasting_blood_sugar](Images/fastingbloodsugar.png)
+
+
+## Notable Patterns 
